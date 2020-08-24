@@ -15,5 +15,4 @@ This calculator only have the standard mode, which includes a number pad and but
 - Netbeans IDE 8.2
 - CheckStyle plugin for netbeans
 - Tomcat Apache 8
-- Microsoft SQL Server
 - Java Doc
