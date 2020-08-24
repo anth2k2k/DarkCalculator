@@ -17,3 +17,7 @@ This calculator only have the standard mode, which includes a number pad and but
 - CheckStyle plugin for netbeans
 - Tomcat Apache 8
 - Java Doc
+
+## Preview
+<p align="center"><img src="https://i.imgur.com/7P15Aaq.png" alt="dark calculator"></p>
+<p align="center"><img src="https://i.imgur.com/iToA60o.png" alt="dark calculator"></p>
