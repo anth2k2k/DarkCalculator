@@ -10,7 +10,7 @@ This calculator only have the standard mode, which includes a number pad and but
 ## References
 - ["Windows Calculator" on Wikipedia](https://en.wikipedia.org/wiki/Windows_Calculator)
 - [Java Calculator App Development Tutorial 1 | Swing | GUI](https://www.youtube.com/watch?v=_ZW4ktG1DEE)
-- [Java Calculator App Development Tutorial 1 | Swing | GUI](https://www.youtube.com/watch?v=lDK8E9Wq9LA)
+- [Java Calculator App Development Tutorial 2 | Swing | GUI](https://www.youtube.com/watch?v=lDK8E9Wq9LA)
 
 ## Tools
 - Netbeans IDE 8.2
